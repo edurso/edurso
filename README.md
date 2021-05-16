@@ -2,9 +2,11 @@
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=edurso&color=ff6700)
 <a href="https://www.linkedin.com/in/edurso/"><img height="30" src="https://github.com/edurso/edurso/blob/master/img/linkedin.png"></a>&nbsp;&nbsp;
+<a href="https://www.github.com/edurso/"><img height="30" src="https://github.com/edurso/edurso/blob/master/img/github.png"></a>&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/edurso/"><img height="30" src="https://github.com/edurso/edurso/blob/master/img/hackerrank.png"></a>&nbsp;&nbsp;
+<a href="https://edurso.github.io/edurso/"><img height="30" src="https://github.com/edurso/edurso/blob/master/img/website.png"></a>&nbsp;&nbsp;
 
-Student with extensive experience in [FIRST Robotics Competition](https://www.firstinspires.org/robotics/frc) and various industry technologies. 
+Student with extensive experience in [FIRST Robotics Competition](https://www.firstinspires.org/robotics/frc) and various industry technologies.
 Actively seeking opportunities to learn about and explore various fields such as autonomous robotics, machine/deep learning, computer vision, and many more.
 
 Junior at [Canton High School (PCEP)](https://www.pccsk12.com/our-schools/plymouth-canton-educational-park)
@@ -52,7 +54,7 @@ Programming Lead @ [FRC 862 - Lightning Robotics](https://github.com/frc-862)
 <img height="30" src="https://github.com/edurso/edurso/blob/master/img/maven.png">&nbsp;&nbsp;
 <img height="30" src="https://github.com/edurso/edurso/blob/master/img/markdown.png">&nbsp;&nbsp;
 
-#### Recent Projects:
+#### Recent Projects
 
 | FRC | Other |
 |-|-|
