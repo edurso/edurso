@@ -48,6 +48,7 @@ Programming Lead @ [FRC 862 - Lightning Robotics](https://github.com/frc-862)
 <img height="30" src="https://github.com/edurso/edurso/blob/master/img/spring.png">&nbsp;&nbsp;
 <img height="30" src="https://github.com/edurso/edurso/blob/master/img/qt.png">&nbsp;&nbsp;
 <img height="30" src="https://github.com/edurso/edurso/blob/master/img/keras.png">&nbsp;&nbsp;
+<img height="30" src="https://github.com/edurso/edurso/blob/master/img/pytorch.png">&nbsp;&nbsp;
 
 ###### Other
 
