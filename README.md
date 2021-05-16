@@ -25,8 +25,10 @@ Programming Lead @ [FRC 862 - Lightning Robotics](https://github.com/frc-862)
 #### Skills and Experience
 
 ###### OS
+
 <img height="30" src="https://github.com/edurso/edurso/blob/master/img/windows.png">&nbsp;&nbsp;
 <img height="30" src="https://github.com/edurso/edurso/blob/master/img/linux.png">&nbsp;&nbsp;
+<img height="30" src="https://github.com/edurso/edurso/blob/master/img/mac.png">&nbsp;&nbsp;
 
 ###### Languages
 
@@ -34,6 +36,9 @@ Programming Lead @ [FRC 862 - Lightning Robotics](https://github.com/frc-862)
 <img height="30" src="https://github.com/edurso/edurso/blob/master/img/cpp.png">&nbsp;&nbsp;
 <img height="30" src="https://github.com/edurso/edurso/blob/master/img/python.png">&nbsp;&nbsp;
 <img height="30" src="https://github.com/edurso/edurso/blob/master/img/jupyter.png">&nbsp;&nbsp;
+<img height="30" src="https://github.com/edurso/edurso/blob/master/img/ruby.png">&nbsp;&nbsp;
+<img height="30" src="https://github.com/edurso/edurso/blob/master/img/javascript.png">&nbsp;&nbsp;
+<img height="30" src="https://github.com/edurso/edurso/blob/master/img/html.png">&nbsp;&nbsp;
 
 ###### Frameworks & Libraries
 
