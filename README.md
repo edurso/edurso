@@ -4,7 +4,8 @@
 <a href="https://www.linkedin.com/in/edurso/"><img height="30" src="https://github.com/edurso/edurso/blob/master/img/linkedin.png"></a>&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/edurso/"><img height="30" src="https://github.com/edurso/edurso/blob/master/img/hackerrank.png"></a>&nbsp;&nbsp;
 
-I am a student who actively participates in the [FIRST Robotics Competition](https://www.firstinspires.org/robotics/frc). Aside from robotics, I am actively seeking opportunities to learn about and explore various fields such as autonomous robotics, machine/deep learning, computer vision, and many more. 
+Student with extensive experience in [FIRST Robotics Competition](https://www.firstinspires.org/robotics/frc) and various industry technologies. 
+Actively seeking opportunities to learn about and explore various fields such as autonomous robotics, machine/deep learning, computer vision, and many more.
 
 Junior at [Canton High School (PCEP)](https://www.pccsk12.com/our-schools/plymouth-canton-educational-park)
 
