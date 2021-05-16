@@ -1,5 +1,6 @@
-## Eric D'Urso <a href="https://www.linkedin.com/in/edurso/"><img height="30" src="https://github.com/edurso/edurso/tree/master/img/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+## Eric D'Urso
 
+<a href="https://www.linkedin.com/in/edurso/"><img height="30" src="https://github.com/edurso/edurso/blob/master/img/linkedin.png"></a>&nbsp;&nbsp;
 ![GitHub Views](https://komarev.com/ghpvc/?username=edurso&color=ff6700)
 
 I am a student who actively participates in the [FIRST Robotics Competition](https://www.firstinspires.org/robotics/frc). Aside from robotics, I am actively seeking opportunities to learn about and explore various fields such as autonomous robotics, machine/deep learning, computer vision, and many more. 
@@ -9,7 +10,6 @@ Junior at [Canton High School (PCEP)](https://www.pccsk12.com/our-schools/plymou
 Programming Lead @ [FRC 862 - Lightning Robotics](https://github.com/frc-862)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=edurso&show_icons=true&theme=dark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edurso&layout=compact&langs_count=10&theme=dark)
 
 #### Recent Projects:
