@@ -11,7 +11,7 @@ Actively seeking opportunities to learn about and explore various fields such as
 
 Junior at [Canton High School (PCEP)](https://www.pccsk12.com/our-schools/plymouth-canton-educational-park)
 
-Programming Lead @ [FRC 862 - Lightning Robotics](https://github.com/frc-862)
+Vice President of Engineering Operations & Former Programming Lead @ [FRC 862 - Lightning Robotics](https://github.com/frc-862)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=edurso&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edurso&layout=compact&langs_count=10&theme=dark)
