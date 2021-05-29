@@ -9,7 +9,7 @@
 Student with extensive experience in [FIRST Robotics Competition](https://www.firstinspires.org/robotics/frc) and various industry technologies.
 Actively seeking opportunities to learn about and explore various fields such as autonomous robotics, machine/deep learning, computer vision, and many more.
 
-Junior at [Canton High School (PCEP)](https://www.pccsk12.com/our-schools/plymouth-canton-educational-park)
+Junior @ [Canton High School (PCEP)](https://www.pccsk12.com/our-schools/plymouth-canton-educational-park)
 
 Vice President of Engineering Operations & Former Programming Lead @ [FRC 862 - Lightning Robotics](https://github.com/frc-862)
 
@@ -70,3 +70,4 @@ this makes me happy:
 this does not:
 
 ![Build Failed](https://github.com/edurso/edurso/blob/master/img/buildfail.png)
+
