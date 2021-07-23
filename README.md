@@ -1,6 +1,5 @@
 ## Eric D'Urso
 
-![GitHub Views](https://komarev.com/ghpvc/?username=edurso&color=ff6700&style=flat-square)
 <a href="https://www.linkedin.com/in/edurso/"><img height="30" src="https://github.com/edurso/edurso/blob/master/img/linkedin.png"></a>&nbsp;&nbsp;
 <a href="https://www.github.com/edurso/"><img height="30" src="https://github.com/edurso/edurso/blob/master/img/github.png"></a>&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/edurso/"><img height="30" src="https://github.com/edurso/edurso/blob/master/img/hackerrank.png"></a>&nbsp;&nbsp;
