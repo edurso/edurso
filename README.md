@@ -58,7 +58,7 @@ Vice President of Engineering Operations & Former Programming Lead @ [FRC 862 - 
 | FRC | Other |
 |-|-|
 | ![Lightning](https://github-readme-stats.vercel.app/api/pin/?username=frc-862&repo=lightning&show_owner=true&theme=dark) | ![AI Examples](https://github-readme-stats.vercel.app/api/pin/?username=edurso&repo=ai-examples&show_owner=true&theme=dark) |
-| ![WebDS](https://github-readme-stats.vercel.app/api/pin/?username=frc-862&repo=webds&show_owner=true&theme=dark) | ![tello](https://github-readme-stats.vercel.app/api/pin/?username=edurso&repo=tello&show_owner=true&theme=dark) |
+| ![WebDS](https://github-readme-stats.vercel.app/api/pin/?username=frc-862&repo=webds&show_owner=true&theme=dark) | ![tello](https://github-readme-stats.vercel.app/api/pin/?username=edurso&repo=dotfiles&show_owner=true&theme=dark) |
 | ![McQueen Vision](https://github-readme-stats.vercel.app/api/pin/?username=frc-862&repo=mcqueen-vision&show_owner=true&theme=dark) | ![FTC](https://github-readme-stats.vercel.app/api/pin/?username=edurso&repo=FtcRobotController&show_owner=true&theme=dark) |
 | ![Galactic Search Path Determination](https://github-readme-stats.vercel.app/api/pin/?username=frc-862&repo=galactic-search-nb&show_owner=true&theme=dark) | ![PLTW CSP](https://github-readme-stats.vercel.app/api/pin/?username=edurso&repo=pltw-csp&show_owner=true&theme=dark) |
 
