@@ -12,9 +12,9 @@ Senior @ [Canton High School (PCEP)](https://www.pccsk12.com/our-schools/plymout
 
 Vice President of Engineering Operations & Former Programming Lead @ [FRC 862](https://github.com/frc-862) - [Lightning Robotics](http://lightningrobotics.com/wordpress/)
 
-#### Recent Projects
+#### Current Projects
 
-- Currentally, I am working on learning Object Detection with TensorFlow. I am working from [this repo](https://github.com/edurso/tfod-wkspc).
+- Currentally, I am working on learning Object Detection with TensorFlow (see [this repo](https://github.com/edurso/tfod-wkspc)).
 - I have also been working on a codebase for FRC robots (see [lightning](https://github.com/frc-862/lightning)).
 
 #### Skills and Experience
