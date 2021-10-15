@@ -5,7 +5,7 @@
 <a href="https://www.hackerrank.com/edurso/"><img height="30" src="https://github.com/edurso/edurso/blob/master/img/hackerrank.png"></a>&nbsp;&nbsp;
 ![Follow](https://img.shields.io/github/followers/edurso?style=social)
 
-Student with extensive experience in [FIRST Robotics Competition](https://www.firstinspires.org/robotics/frc) and various industry technologies.
+Student with extensive experience in [FIRST Robotics](https://www.firstinspires.org/robotics/frc) and various industry technologies.
 Actively seeking opportunities to learn about and explore fields such as autonomous robotics, machine/deep learning, computer vision, and many more.
 
 Senior @ [Canton High School (PCEP)](https://www.pccsk12.com/our-schools/plymouth-canton-educational-park)
