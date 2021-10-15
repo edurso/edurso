@@ -6,7 +6,7 @@
 ![Follow](https://img.shields.io/github/followers/edurso?style=social)
 
 Student with extensive experience in [FIRST Robotics Competition](https://www.firstinspires.org/robotics/frc) and various industry technologies.
-Actively seeking opportunities to learn about and explore various fields such as autonomous robotics, machine/deep learning, computer vision, and many more.
+Actively seeking opportunities to learn about and explore fields such as autonomous robotics, machine/deep learning, computer vision, and many more.
 
 Senior @ [Canton High School (PCEP)](https://www.pccsk12.com/our-schools/plymouth-canton-educational-park)
 
@@ -14,7 +14,7 @@ Vice President of Engineering Operations & Former Programming Lead @ [FRC 862](h
 
 #### Recent Projects
 
-- Currentally, I am working on learning Object Detection with TensorFlow (see [this repo](https://github.com/edurso/tfod-wkspc)).
+- Currently, I am working on learning Object Detection with TensorFlow (see [this repo](https://github.com/edurso/tfod-wkspc)).
 - I have also been working on a codebase for FRC robots (see [lightning](https://github.com/frc-862/lightning)).
 - I have also worked on a ML classifier for the 2021 FRC skills challenge (see [this repo](https://github.com/frc-862/galactic-search-nb)).
   - The application developed to run inference on this model with a raspberry pi can be found [here](https://github.com/frc-862/mcqueen-vision).
