@@ -10,7 +10,7 @@ Actively seeking opportunities to learn about and explore fields such as autonom
 
 Senior @ [Canton High School (PCEP)](https://www.pccsk12.com/our-schools/plymouth-canton-educational-park)
 
-Vice President of Engineering Operations & Former Programming Lead @ [FRC 862](https://github.com/frc-862) - [Lightning Robotics](http://lightningrobotics.com/wordpress/)
+Vice President of Engineering Operations & Former Programming Lead @ [FRC Tean 862](https://github.com/frc-862) - [Lightning Robotics](http://lightningrobotics.com/wordpress/)
 
 #### Recent Projects
 
