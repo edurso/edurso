@@ -18,6 +18,7 @@ Vice President of Engineering Operations & Former Programming Lead @ [FRC Tean 8
 - I have also been working on a codebase for FRC robots (see [lightning](https://github.com/frc-862/lightning)).
 - I have also worked on a ML classifier for the 2021 FRC skills challenge (see [this repo](https://github.com/frc-862/galactic-search-nb)).
   - The application developed to run inference on this model with a raspberry pi can be found [here](https://github.com/frc-862/mcqueen-vision).
+  - [This](https://lightningrobotics.smugmug.com/2020-21-Folder/n-jZqhV9/2021---Skills-Challenge-Videos/i-pNbf3jw/A) is the functioning end result.
 
 #### Skills and Experience
 
