@@ -6,7 +6,7 @@
 ![Follow](https://img.shields.io/github/followers/edurso?style=social)
 
 Student with extensive experience in [FIRST Robotics](https://www.firstinspires.org/robotics/frc) and various industry technologies.
-Actively seeking opportunities to learn about and explore fields such as autonomous robotics, machine/deep learning, computer vision, and many more.
+Actively seeking opportunities to learn about and explore fields such as autonomous robotics, machine/deep learning, computer vision, as well as many more.
 
 Senior @ [Canton High School (PCEP)](https://www.pccsk12.com/our-schools/plymouth-canton-educational-park)
 
