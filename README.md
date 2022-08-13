@@ -19,11 +19,11 @@ Freshman @ [University of Michigan, Ann Arbor - College of Engineering](https://
 
 #### Skills and Experience
 
-**OS** \
+OS \
 <img height="40" src="https://github.com/edurso/edurso/blob/master/img/windows.png">&nbsp;&nbsp;
 <img height="40" src="https://github.com/edurso/edurso/blob/master/img/linux.png">&nbsp;&nbsp;
 
-**Languages** \
+Languages \
 <img height="40" src="https://github.com/edurso/edurso/blob/master/img/java.png">&nbsp;&nbsp;
 <img height="40" src="https://github.com/edurso/edurso/blob/master/img/python.png">&nbsp;&nbsp;
 <img height="40" src="https://github.com/edurso/edurso/blob/master/img/cpp.png">&nbsp;&nbsp;
@@ -35,7 +35,7 @@ Freshman @ [University of Michigan, Ann Arbor - College of Engineering](https://
 <img height="40" src="https://github.com/edurso/edurso/blob/master/img/html.png">&nbsp;&nbsp;
 <img height="40" src="https://github.com/edurso/edurso/blob/master/img/markdown.png">&nbsp;&nbsp;
 
-**Frameworks & Libraries** \
+Frameworks & Libraries \
 <img height="40" src="https://github.com/edurso/edurso/blob/master/img/android.png">&nbsp;&nbsp;
 <img height="40" src="https://github.com/edurso/edurso/blob/master/img/opencv.png">&nbsp;&nbsp;
 <img height="40" src="https://github.com/edurso/edurso/blob/master/img/tensorflow.png">&nbsp;&nbsp;
@@ -45,7 +45,7 @@ Freshman @ [University of Michigan, Ann Arbor - College of Engineering](https://
 <img height="40" src="https://github.com/edurso/edurso/blob/master/img/keras.png">&nbsp;&nbsp;
 <img height="40" src="https://github.com/edurso/edurso/blob/master/img/pytorch.png">&nbsp;&nbsp;
 
-**Other** \
+Other \
 <img height="40" src="https://github.com/edurso/edurso/blob/master/img/git.png">&nbsp;&nbsp;
 <img height="40" src="https://github.com/edurso/edurso/blob/master/img/github.png">&nbsp;&nbsp;
 <img height="40" src="https://github.com/edurso/edurso/blob/master/img/gradle.png">&nbsp;&nbsp;
