@@ -12,7 +12,7 @@ Freshman @ [University of Michigan, Ann Arbor - College of Engineering](https://
 
 - Object Detection with TensorFlow ([this repo](https://github.com/edurso/obj-detect))
 - Codebase for FRC Robots ([lightning](https://github.com/frc-862/lightning))
-- ML Classifier for the 2021 FRC Skills Challenge ([this repo](https://github.com/frc-862/galactic-search-nb))
+- ML Classifier for the FRC Skills Challenge ([this repo](https://github.com/frc-862/galactic-search-nb))
   - [Raspberry Pi Inference Application](https://github.com/frc-862/mcqueen-vision)
   - [Result](https://lightningrobotics.smugmug.com/2020-21-Folder/n-jZqhV9/2021---Skills-Challenge-Videos/i-pNbf3jw/A)
 
