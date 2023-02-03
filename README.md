@@ -23,14 +23,14 @@ Freshman @ [University of Michigan, Ann Arbor - College of Engineering](https://
 <img height="40" src="https://github.com/edurso/edurso/blob/master/img/linux.png">&nbsp;&nbsp;
 
 ###### Languages
-<img height="40" src="https://github.com/edurso/edurso/blob/master/img/python.png">&nbsp;&nbsp;
 <img height="40" src="https://github.com/edurso/edurso/blob/master/img/cpp.png">&nbsp;&nbsp;
-<img height="40" src="https://github.com/edurso/edurso/blob/master/img/docker.png">&nbsp;&nbsp;
-<img height="40" src="https://github.com/edurso/edurso/blob/master/img/jupyter.png">&nbsp;&nbsp;
+<img height="40" src="https://github.com/edurso/edurso/blob/master/img/python.png">&nbsp;&nbsp;
 <img height="40" src="https://github.com/edurso/edurso/blob/master/img/java.png">&nbsp;&nbsp;
-<img height="40" src="https://github.com/edurso/edurso/blob/master/img/vim.png">&nbsp;&nbsp;
+<img height="40" src="https://github.com/edurso/edurso/blob/master/img/docker.png">&nbsp;&nbsp;
 <img height="40" src="https://github.com/edurso/edurso/blob/master/img/javascript.png">&nbsp;&nbsp;
 <img height="40" src="https://github.com/edurso/edurso/blob/master/img/ruby.png">&nbsp;&nbsp;
+<img height="40" src="https://github.com/edurso/edurso/blob/master/img/jupyter.png">&nbsp;&nbsp;
+<img height="40" src="https://github.com/edurso/edurso/blob/master/img/vim.png">&nbsp;&nbsp;
 <img height="40" src="https://github.com/edurso/edurso/blob/master/img/html.png">&nbsp;&nbsp;
 <img height="40" src="https://github.com/edurso/edurso/blob/master/img/markdown.png">&nbsp;&nbsp;
 
