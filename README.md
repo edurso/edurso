@@ -53,4 +53,3 @@ Freshman @ [University of Michigan, Ann Arbor - College of Engineering](https://
 <img height="40" src="https://github.com/edurso/edurso/blob/master/img/arduino.png">&nbsp;&nbsp;
 <img height="40" src="https://github.com/edurso/edurso/blob/master/img/first.png">&nbsp;&nbsp;
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edurso&layout=compact&langs_count=10&theme=dark)
