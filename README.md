@@ -19,37 +19,14 @@ Freshman @ [University of Michigan, Ann Arbor - College of Engineering](https://
 #### Skills and Experience
 
 ###### OS
-<img height="40" src="https://github.com/edurso/edurso/blob/master/img/windows.png">&nbsp;&nbsp;
-<img height="40" src="https://github.com/edurso/edurso/blob/master/img/linux.png">&nbsp;&nbsp;
+![Linux](https://skillicons.dev/icons?i=linux&theme=light)&nbsp;&nbsp;<img height="40" src="https://github.com/edurso/edurso/blob/master/img/windows.png">&nbsp;&nbsp;
 
 ###### Languages
-<img height="40" src="https://github.com/edurso/edurso/blob/master/img/cpp.png">&nbsp;&nbsp;
-<img height="40" src="https://github.com/edurso/edurso/blob/master/img/python.png">&nbsp;&nbsp;
-<img height="40" src="https://github.com/edurso/edurso/blob/master/img/java.png">&nbsp;&nbsp;
-<img height="40" src="https://github.com/edurso/edurso/blob/master/img/docker.png">&nbsp;&nbsp;
-<img height="40" src="https://github.com/edurso/edurso/blob/master/img/javascript.png">&nbsp;&nbsp;
-<img height="40" src="https://github.com/edurso/edurso/blob/master/img/ruby.png">&nbsp;&nbsp;
-<img height="40" src="https://github.com/edurso/edurso/blob/master/img/jupyter.png">&nbsp;&nbsp;
-<img height="40" src="https://github.com/edurso/edurso/blob/master/img/vim.png">&nbsp;&nbsp;
-<img height="40" src="https://github.com/edurso/edurso/blob/master/img/html.png">&nbsp;&nbsp;
-<img height="40" src="https://github.com/edurso/edurso/blob/master/img/markdown.png">&nbsp;&nbsp;
+![c++](https://skillicons.dev/icons?i=cpp)&nbsp;&nbsp;![c](https://skillicons.dev/icons?i=c)&nbsp;&nbsp;![python](https://skillicons.dev/icons?i=python&theme=light)&nbsp;&nbsp;![java](https://skillicons.dev/icons?i=java&theme=light)&nbsp;&nbsp;![docker](https://skillicons.dev/icons?i=docker)&nbsp;&nbsp;<img height="40" src="https://github.com/edurso/edurso/blob/master/img/jupyter.png">&nbsp;&nbsp;![ruby](https://skillicons.dev/icons?i=ruby)&nbsp;&nbsp;![js](https://skillicons.dev/icons?i=js)&nbsp;&nbsp;![html](https://skillicons.dev/icons?i=html)&nbsp;&nbsp;![vim](https://skillicons.dev/icons?i=vim&theme=light)&nbsp;&nbsp;
 
 ###### Frameworks & Libraries
-<img height="40" src="https://github.com/edurso/edurso/blob/master/img/android.png">&nbsp;&nbsp;
-<img height="40" src="https://github.com/edurso/edurso/blob/master/img/opencv.png">&nbsp;&nbsp;
-<img height="40" src="https://github.com/edurso/edurso/blob/master/img/tensorflow.png">&nbsp;&nbsp;
-<img height="40" src="https://github.com/edurso/edurso/blob/master/img/spring.png">&nbsp;&nbsp;
-<img height="40" src="https://github.com/edurso/edurso/blob/master/img/unity.png">&nbsp;&nbsp;
-<img height="40" src="https://github.com/edurso/edurso/blob/master/img/qt.png">&nbsp;&nbsp;
-<img height="40" src="https://github.com/edurso/edurso/blob/master/img/keras.png">&nbsp;&nbsp;
-<img height="40" src="https://github.com/edurso/edurso/blob/master/img/pytorch.png">&nbsp;&nbsp;
+![Frameworks & Libraries](https://skillicons.dev/icons?i=tensorflow)&nbsp;&nbsp;![Frameworks & Libraries](https://skillicons.dev/icons?i=spring)&nbsp;&nbsp;![Frameworks & Libraries](https://skillicons.dev/icons?i=unity)&nbsp;&nbsp;![Frameworks & Libraries](https://skillicons.dev/icons?i=qt)&nbsp;&nbsp;![Frameworks & Libraries](https://skillicons.dev/icons?i=pytorch)&nbsp;&nbsp;<img height="40" src="https://github.com/edurso/edurso/blob/master/img/android.png">&nbsp;&nbsp;<img height="40" src="https://github.com/edurso/edurso/blob/master/img/opencv.png">&nbsp;&nbsp;<img height="40" src="https://github.com/edurso/edurso/blob/master/img/keras.png">&nbsp;&nbsp;
 
-###### Other
-<img height="40" src="https://github.com/edurso/edurso/blob/master/img/git.png">&nbsp;&nbsp;
-<img height="40" src="https://github.com/edurso/edurso/blob/master/img/github.png">&nbsp;&nbsp;
-<img height="40" src="https://github.com/edurso/edurso/blob/master/img/gradle.png">&nbsp;&nbsp;
-<img height="40" src="https://github.com/edurso/edurso/blob/master/img/maven.png">&nbsp;&nbsp;
-<img height="40" src="https://github.com/edurso/edurso/blob/master/img/rpi.png">&nbsp;&nbsp;
-<img height="40" src="https://github.com/edurso/edurso/blob/master/img/arduino.png">&nbsp;&nbsp;
-<img height="40" src="https://github.com/edurso/edurso/blob/master/img/first.png">&nbsp;&nbsp;
+###### Other Tools
+![git](https://skillicons.dev/icons?i=git)&nbsp;&nbsp;![github](https://skillicons.dev/icons?i=github)&nbsp;&nbsp;![cmake](https://skillicons.dev/icons?i=cmake)&nbsp;&nbsp;![gradle](https://skillicons.dev/icons?i=gradle)&nbsp;&nbsp;![maven](https://skillicons.dev/icons?i=maven)&nbsp;&nbsp;![rpi](https://skillicons.dev/icons?i=raspberrypi)&nbsp;&nbsp;![arduino](https://skillicons.dev/icons?i=arduino)&nbsp;&nbsp;![cmake](https://skillicons.dev/icons?i=cmake)&nbsp;&nbsp;<img height="40" src="https://github.com/edurso/edurso/blob/master/img/first.png">&nbsp;&nbsp;
 
