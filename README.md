@@ -1,9 +1,8 @@
 ## Eric D'Urso
 
-<a href="https://www.linkedin.com/in/edurso/"><img height="50" src="https://github.com/edurso/edurso/blob/new-logos/img/linkedin.png"></a>&nbsp;&nbsp;
-
-
-<!-- <a href="https://www.github.com/edurso/"><img height="30" src="https://github.com/edurso/edurso/blob/master/img/github.png"></a>&nbsp;&nbsp; -->
+<a href="https://www.linkedin.com/in/edurso/"><img height="40" src="https://github.com/edurso/edurso/blob/new-logos/img/linkedin.png"></a>&nbsp;&nbsp;
+<a href="https://www.github.com/edurso/"><img height="40" src="https://github.com/edurso/edurso/blob/new-logos/img/github.png"></a>&nbsp;&nbsp;
+<a href="https://www.engin.umich.edu/"><img height="30" src="https://github.com/edurso/edurso/blob/new-logos/img/um.png"></a>&nbsp;&nbsp;
 
 Computer Engineering Student with extensive experience in various industry technologies.
 Actively seeking opportunities to learn about and explore fields such as space radar, autonomous robotics, machine/deep learning, computer vision, and many more.
