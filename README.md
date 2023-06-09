@@ -1,6 +1,7 @@
 ## Eric D'Urso
 
 <a href="https://www.linkedin.com/in/edurso/"><img height="40" src="https://github.com/edurso/edurso/blob/new-logos/img/linkedin.png"></a>&nbsp;&nbsp;
+<a href="mailto:edurso862@gmail.com"><img height="40" src="https://github.com/edurso/edurso/blob/new-logos/img/email.png"></a>&nbsp;&nbsp;
 <a href="https://www.github.com/edurso/"><img height="40" src="https://github.com/edurso/edurso/blob/new-logos/img/github.png"></a>&nbsp;&nbsp;
 <a href="https://www.engin.umich.edu/"><img height="40" src="https://github.com/edurso/edurso/blob/new-logos/img/um.png"></a>&nbsp;&nbsp;
 
