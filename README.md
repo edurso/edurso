@@ -1,8 +1,8 @@
 ## Eric D'Urso
 
-![LinkedIn](https://github.com/edurso/edurso/blob/new-logos/img/linkedin.png =50x50)
+<a href="https://www.linkedin.com/in/edurso/"><img height="50" src="https://github.com/edurso/edurso/blob/new-logos/img/linkedin.png"></a>&nbsp;&nbsp;
 
-<!-- <a href="https://www.linkedin.com/in/edurso/"><img height="30" src="https://github.com/edurso/edurso/blob/master/img/linkedin.png"></a>&nbsp;&nbsp; -->
+
 <!-- <a href="https://www.github.com/edurso/"><img height="30" src="https://github.com/edurso/edurso/blob/master/img/github.png"></a>&nbsp;&nbsp; -->
 
 Computer Engineering Student with extensive experience in various industry technologies.
