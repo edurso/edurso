@@ -22,31 +22,31 @@ Freshman @ [University of Michigan, Ann Arbor - College of Engineering](https://
 <a href="https://www.engin.umich.edu/"><img height="50" src="https://github.com/edurso/edurso/blob/new-logos/img/um.png"></a>&nbsp;&nbsp;
 <img height="50" src="https://github.com/edurso/edurso/blob/new-logos/img/linux.png">&nbsp;&nbsp;
 <img height="50" src="https://github.com/edurso/edurso/blob/new-logos/img/windows.png">&nbsp;&nbsp;
+
 <img height="50" src="https://github.com/edurso/edurso/blob/new-logos/img/cpp.png">&nbsp;&nbsp;
 <img height="50" src="https://github.com/edurso/edurso/blob/new-logos/img/c.png">&nbsp;&nbsp;
 <img height="50" src="https://github.com/edurso/edurso/blob/new-logos/img/python.png">&nbsp;&nbsp;
-
 <img height="50" src="https://github.com/edurso/edurso/blob/new-logos/img/java.png">&nbsp;&nbsp;
 <img height="50" src="https://github.com/edurso/edurso/blob/new-logos/img/docker.png">&nbsp;&nbsp;
-<img height="50" src="https://github.com/edurso/edurso/blob/new-logos/img/jupyter.png">&nbsp;&nbsp;
-<img height="50" src="https://github.com/edurso/edurso/blob/new-logos/img/cuda.png">&nbsp;&nbsp;
 <img height="50" src="https://github.com/edurso/edurso/blob/new-logos/img/ruby.png">&nbsp;&nbsp;
-<img height="50" src="https://github.com/edurso/edurso/blob/new-logos/img/node.png">&nbsp;&nbsp;
 
+<img height="50" src="https://github.com/edurso/edurso/blob/new-logos/img/cuda.png">&nbsp;&nbsp;
+<img height="50" src="https://github.com/edurso/edurso/blob/new-logos/img/jupyter.png">&nbsp;&nbsp;
+<img height="50" src="https://github.com/edurso/edurso/blob/new-logos/img/node.png">&nbsp;&nbsp;
 <img height="50" src="https://github.com/edurso/edurso/blob/new-logos/img/vim.png">&nbsp;&nbsp;
+<img height="50" src="https://github.com/edurso/edurso/blob/new-logos/img/android.png">&nbsp;&nbsp;
+<img height="50" src="https://github.com/edurso/edurso/blob/new-logos/img/qt.png">&nbsp;&nbsp;
+
 <img height="50" src="https://github.com/edurso/edurso/blob/new-logos/img/opencv.png">&nbsp;&nbsp;
 <img height="50" src="https://github.com/edurso/edurso/blob/new-logos/img/tf.png">&nbsp;&nbsp;
 <img height="50" src="https://github.com/edurso/edurso/blob/new-logos/img/pytorch.png">&nbsp;&nbsp;
 <img height="50" src="https://github.com/edurso/edurso/blob/new-logos/img/spring.png">&nbsp;&nbsp;
-<img height="50" src="https://github.com/edurso/edurso/blob/new-logos/img/qt.png">&nbsp;&nbsp;
-
-<img height="50" src="https://github.com/edurso/edurso/blob/new-logos/img/android.png">&nbsp;&nbsp;
+<img height="50" src="https://github.com/edurso/edurso/blob/new-logos/img/aws.png">&nbsp;&nbsp;
 <img height="50" src="https://github.com/edurso/edurso/blob/new-logos/img/ros.png">&nbsp;&nbsp;
+
 <img height="50" src="https://github.com/edurso/edurso/blob/new-logos/img/git.png">&nbsp;&nbsp;
 <img height="50" src="https://github.com/edurso/edurso/blob/new-logos/img/cmake.png">&nbsp;&nbsp;
 <img height="50" src="https://github.com/edurso/edurso/blob/new-logos/img/gradle.png">&nbsp;&nbsp;
 <img height="50" src="https://github.com/edurso/edurso/blob/new-logos/img/maven.png">&nbsp;&nbsp;
-
 <img height="50" src="https://github.com/edurso/edurso/blob/new-logos/img/arduino.png">&nbsp;&nbsp;
 <img height="50" src="https://github.com/edurso/edurso/blob/new-logos/img/rpi.png">&nbsp;&nbsp;
-<img height="50" src="https://github.com/edurso/edurso/blob/new-logos/img/aws.png">&nbsp;&nbsp;
