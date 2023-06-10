@@ -1,8 +1,8 @@
 ## Eric D'Urso
 
-<a href="https://www.linkedin.com/in/edurso/"><img height="40" src="https://github.com/edurso/edurso/blob/new-logos/img/linkedin.png"></a>&nbsp;&nbsp;
-<a href="mailto:edurso862@gmail.com"><img height="40" src="https://github.com/edurso/edurso/blob/new-logos/img/email.png"></a>&nbsp;&nbsp;
-<a href="https://www.github.com/edurso/"><img height="40" src="https://github.com/edurso/edurso/blob/new-logos/img/github.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/edurso/"><img height="50" src="https://github.com/edurso/edurso/blob/new-logos/img/linkedin.png"></a>&nbsp;&nbsp;
+<a href="mailto:edurso862@gmail.com"><img height="50" src="https://github.com/edurso/edurso/blob/new-logos/img/email.png"></a>&nbsp;&nbsp;
+<a href="https://www.github.com/edurso/"><img height="50" src="https://github.com/edurso/edurso/blob/new-logos/img/github.png"></a>&nbsp;&nbsp;
 
 Computer Engineering Student with extensive experience in various industry technologies.
 Actively seeking opportunities to learn about and explore fields such as space radar, autonomous robotics, machine/deep learning, computer vision, and many more.
@@ -43,15 +43,10 @@ Freshman @ [University of Michigan, Ann Arbor - College of Engineering](https://
 <img height="50" src="https://github.com/edurso/edurso/blob/new-logos/img/android.png">&nbsp;&nbsp;
 <img height="50" src="https://github.com/edurso/edurso/blob/new-logos/img/ros.png">&nbsp;&nbsp;
 <img height="50" src="https://github.com/edurso/edurso/blob/new-logos/img/git.png">&nbsp;&nbsp;
+<img height="50" src="https://github.com/edurso/edurso/blob/new-logos/img/cmake.png">&nbsp;&nbsp;
+<img height="50" src="https://github.com/edurso/edurso/blob/new-logos/img/gradle.png">&nbsp;&nbsp;
+<img height="50" src="https://github.com/edurso/edurso/blob/new-logos/img/maven.png">&nbsp;&nbsp;
 
-
-
-![git](https://skillicons.dev/icons?i=git)&nbsp;&nbsp;
-![github](https://skillicons.dev/icons?i=github)&nbsp;&nbsp;
-
-![cmake](https://skillicons.dev/icons?i=cmake)&nbsp;&nbsp;
-![gradle](https://skillicons.dev/icons?i=gradle)&nbsp;&nbsp;
-![maven](https://skillicons.dev/icons?i=maven)&nbsp;&nbsp;
-![rpi](https://skillicons.dev/icons?i=raspberrypi)&nbsp;&nbsp;
-![arduino](https://skillicons.dev/icons?i=arduino)&nbsp;&nbsp;
-
+<img height="50" src="https://github.com/edurso/edurso/blob/new-logos/img/arduino.png">&nbsp;&nbsp;
+<img height="50" src="https://github.com/edurso/edurso/blob/new-logos/img/rpi.png">&nbsp;&nbsp;
+<img height="50" src="https://github.com/edurso/edurso/blob/new-logos/img/aws.png">&nbsp;&nbsp;
