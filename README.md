@@ -7,7 +7,7 @@
 Computer Engineering Student with extensive experience in various industry technologies.
 Actively seeking opportunities to learn about and explore fields such as space radar, autonomous robotics, machine/deep learning, computer vision, and many more.
 
-Freshman @ [University of Michigan, Ann Arbor - College of Engineering](https://www.engin.umich.edu/)
+Sophomore @ [University of Michigan, Ann Arbor - College of Engineering](https://www.engin.umich.edu/)
 
 #### Notable Projects
 
