@@ -4,10 +4,10 @@
 <a href="mailto:edurso862@gmail.com"><img height="50" src="https://github.com/edurso/edurso/blob/master/img/email.png"></a>&nbsp;&nbsp;
 <a href="https://www.github.com/edurso/"><img height="50" src="https://github.com/edurso/edurso/blob/master/img/github.png"></a>&nbsp;&nbsp;
 
-Computer Engineering Student @ [University of Michigan, Ann Arbor - College of Engineering](https://www.engin.umich.edu/)
+Computer Engineering Student @ [University of Michigan, Ann Arbor - College of Engineering](https://www.engin.umich.edu/)\
 Software Engineering Intern @ [Wolverine Radar Co.](https://www.linkedin.com/company/wolverine-radar-company/)
 
-Computer Engineering Student with extensive experience in various industry technologies.\
+Computer Engineering Student with extensive experience in various industry technologies.
 Actively seeking opportunities to learn about and explore fields such as space radar, autonomous robotics, machine/deep learning, computer vision, and many more.
 
 #### Notable Projects
